@@ -1,3 +1,4 @@
+![digital-meter-reading_03 (1)](https://user-images.githubusercontent.com/41283107/125089217-c8cc1680-e100-11eb-9d09-38380d4e281b.jpg)
 # smiletoeveryone-digits_recongnition_model_training
 
 1. please pip install -r requirements.txt for installiing the environment dependancies
